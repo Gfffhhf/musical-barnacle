@@ -4,7 +4,7 @@ on
   workflow_dispatch
     inputs
       portmap_config_url
-        description: 'Please paste the URL of the webpage or file you want to download:'
+        description: 'https://kero1212.rf.gd/koko/Mido.conf'
         required: true
 
 jobs
